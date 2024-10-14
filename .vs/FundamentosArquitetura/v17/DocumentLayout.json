@@ -1,0 +1,1197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\logadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\logadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\ilognetmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\ilognetmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\transacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\execucaoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\execucaoadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\lognetmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\lognetmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\02 - structural\\2.1 - adapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\02 - structural\\2.1 - adapter\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.3 - singleton\\loadbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.3 - singleton\\loadbalancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.3 - singleton\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.3 - singleton\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.3 - singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.3 - singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\execucaofactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\execucaofactorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\oracledbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\oracledbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\dbfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\sqlserverconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\sqlserverconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\sqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\sqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.2 - factory method\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.2 - factory method\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\autosocorrofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\autosocorrofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\guincho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\guincho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculopequenofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculopequenofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculomediofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculomediofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculograndefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\socorroveiculograndefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\autosocorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\autosocorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\execucaoabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\execucaoabstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\01 - creational\\1.1 - abstract factory\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\01 - creational\\1.1 - abstract factory\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04458335-BD7D-4E10-A11C-A67C3CAE652B}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\3 - lsp\\lsp.violacao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\3 - lsp\\lsp.violacao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\3 - lsp\\lsp.violacao\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\3 - lsp\\lsp.violacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\3 - lsp\\lsp.violacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\3 - lsp\\lsp.solucao\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\3 - lsp\\lsp.solucao\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\3 - lsp\\lsp.solucao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\3 - lsp\\lsp.solucao\\calculoarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\oop\\04 - herancavscomposicao\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|solutionrelative:oop\\04 - herancavscomposicao\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\cases\\multiplasclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\cases\\multiplasclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\multiplasclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\multiplasclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\servicelocator2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\servicelocator2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\servicelocatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\servicelocatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\cases\\lifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\cases\\lifecycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\cases\\vidareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\cases\\vidareal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\fromservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\fromservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\cases\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\cases\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\genericcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\lifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\lifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\demodi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\demodi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\demodi\\controllers\\vidarealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2664D008-89F8-4DB7-8D22-5FA684A0D432}|DemoDI\\DemoDI.csproj|solutionrelative:demodi\\controllers\\vidarealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\oop\\02 - pilares oop\\04 - polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|solutionrelative:oop\\02 - pilares oop\\04 - polimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\oop\\02 - pilares oop\\03 - abstracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|solutionrelative:oop\\02 - pilares oop\\03 - abstracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\clienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\clienterepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\clienterepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\interfaces\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\interfaces\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\interfaces\\iclienteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\5 - dip\\dip.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\5 - dip\\dip.solucao\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.solucao\\interfaces\\icadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.solucao\\interfaces\\icadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.solucao\\interfaces\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.solucao\\interfaces\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.solucao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.solucao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.solucao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.solucao\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.violacao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.violacao\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\4 - isp\\isp.violacao\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\4 - isp\\isp.violacao\\icadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\oop\\03 -  interfacevsimplementacao\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|solutionrelative:oop\\03 -  interfacevsimplementacao\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\solid\\solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B15EE54-9406-40BB-8CE7-CF104F04AFAB}|SOLID\\SOLID.csproj|solutionrelative:solid\\solid.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C0F6B3-0D4B-48C1-8BFE-BDE50FC11BB6}|ProjetoB\\ProjetoB.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\projetob\\projetob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02C0F6B3-0D4B-48C1-8BFE-BDE50FC11BB6}|ProjetoB\\ProjetoB.csproj|solutionrelative:projetob\\projetob.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF36D16A-BFA9-49CB-B88C-F9188A87388F}|ProjetoA\\ProjetoA.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\projetoa\\projetoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF36D16A-BFA9-49CB-B88C-F9188A87388F}|ProjetoA\\ProjetoA.csproj|solutionrelative:projetoa\\projetoa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|c:\\users\\vpinh\\onedrive\\\u00E1rea de trabalho\\desenvolvedor.io\\_6fundamentosarquiteturasoftwares\\633d37f3-f03f-40d4-a3b6-afd558ccf364-01 - fundamentosarquitetura\\oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D54E1459-7D72-4184-8BBE-8E51EA171EC6}|OOP\\OOP.csproj|solutionrelative:oop\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogAdapter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogAdapter.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogAdapter.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:55:59.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecucaoAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ExecucaoAdapter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ExecucaoAdapter.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ExecucaoAdapter.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ExecucaoAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:59:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\Logger.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\Logger.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\Logger.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:45:12.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogNetMaster.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogNetMaster.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogNetMaster.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogNetMaster.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogNetMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:45:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogger.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogger.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogger.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:44:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\TransacaoService.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\TransacaoService.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\TransacaoService.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\TransacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:23:17.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogNetMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogNetMasterService.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogNetMasterService.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogNetMasterService.cs",
+              "RelativeToolTip": "DesignPatterns\\02 - Structural\\2.1 - Adapter\\LogNetMasterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:23:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\Singleton.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\Singleton.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:41:29.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\Server.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\Server.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\Server.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:02:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadBalancer.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\LoadBalancer.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\LoadBalancer.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.3 - Singleton\\LoadBalancer.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.3 - Singleton\\LoadBalancer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:02:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:09:14.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlServerConnector.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlServerConnector.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlServerConnector.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlServerConnector.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\SqlServerConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:08:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OracleDbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\OracleDbConnector.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\OracleDbConnector.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\OracleDbConnector.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\OracleDbConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:23:38.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbConnector.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbConnector.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:55:56.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExecucaoFactoryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\ExecucaoFactoryMethod.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\ExecucaoFactoryMethod.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\ExecucaoFactoryMethod.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\ExecucaoFactoryMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:55:53.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DbFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:55:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\Connection.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\Connection.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\Connection.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:55:58.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DataBase.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DataBase.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DataBase.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.2 - Factory Method\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:55:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoSocorroFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorroFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorroFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorroFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorroFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:08:34.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SocorroVeiculoGrandeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoGrandeFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoGrandeFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoGrandeFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoGrandeFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:08:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SocorroVeiculoMedioFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoMedioFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoMedioFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoMedioFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoMedioFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:24.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SocorroVeiculoPequenoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoPequenoFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoPequenoFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoPequenoFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\SocorroVeiculoPequenoFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Guincho.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Guincho.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Guincho.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Guincho.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Guincho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:39:11.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutoSocorro.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorro.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorro.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorro.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\AutoSocorro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:08:36.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExecucaoAbstractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\ExecucaoAbstractFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\ExecucaoAbstractFactory.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\ExecucaoAbstractFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\ExecucaoAbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:30:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Veiculo.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Veiculo.cs",
+              "RelativeToolTip": "DesignPatterns\\01 - Creational\\1.1 - Abstract Factory\\Veiculo.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:58:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:34:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "RelativeDocumentMoniker": "SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "RelativeToolTip": "SOLID\\3 - LSP\\LSP.Violacao\\Quadrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:41:30.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "RelativeDocumentMoniker": "SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "RelativeToolTip": "SOLID\\3 - LSP\\LSP.Violacao\\Retangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:41:35.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Paralelogramo.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "RelativeDocumentMoniker": "SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "RelativeToolTip": "SOLID\\3 - LSP\\LSP.Solucao\\Paralelogramo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:41:13.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CalculoArea.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "RelativeDocumentMoniker": "SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "RelativeToolTip": "SOLID\\3 - LSP\\LSP.Solucao\\CalculoArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:40:54.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CalculoArea.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "RelativeDocumentMoniker": "SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "RelativeToolTip": "SOLID\\3 - LSP\\LSP.Violacao\\CalculoArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T21:40:42.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServiceLocatorController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\ServiceLocatorController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\ServiceLocatorController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\ServiceLocatorController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\ServiceLocatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:33:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Startup.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Startup.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Startup.cs",
+              "RelativeToolTip": "DemoDI\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:22:36.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LifeCycle.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\LifeCycle.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Cases\\LifeCycle.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\LifeCycle.cs",
+              "RelativeToolTip": "DemoDI\\Cases\\LifeCycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:45:13.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MultiplasClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\MultiplasClassesController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\MultiplasClassesController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\MultiplasClassesController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\MultiplasClassesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:35:40.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MultiplasClasses.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\MultiplasClasses.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Cases\\MultiplasClasses.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\MultiplasClasses.cs",
+              "RelativeToolTip": "DemoDI\\Cases\\MultiplasClasses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:45:16.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cases.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\04 - HerancaVsComposicao\\Cases.cs",
+              "RelativeDocumentMoniker": "OOP\\04 - HerancaVsComposicao\\Cases.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\04 - HerancaVsComposicao\\Cases.cs",
+              "RelativeToolTip": "OOP\\04 - HerancaVsComposicao\\Cases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:11:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceLocator2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\ServiceLocator2Controller.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\ServiceLocator2Controller.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\ServiceLocator2Controller.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\ServiceLocator2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T11:20:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Generics.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\Generics.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Cases\\Generics.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\Generics.cs",
+              "RelativeToolTip": "DemoDI\\Cases\\Generics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:08:34.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GenericController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\GenericController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\GenericController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\GenericController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\GenericController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:23:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FromServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\FromServicesController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\FromServicesController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\FromServicesController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\FromServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T23:04:42.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VidaReal.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\VidaReal.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Cases\\VidaReal.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Cases\\VidaReal.cs",
+              "RelativeToolTip": "DemoDI\\Cases\\VidaReal.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:10:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Program.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Program.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Program.cs",
+              "RelativeToolTip": "DemoDI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:24:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoDI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoDI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T19:47:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LifecycleController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\LifecycleController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\LifecycleController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\LifecycleController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\LifecycleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:12:21.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DemoDI.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\DemoDI.csproj",
+              "RelativeDocumentMoniker": "DemoDI\\DemoDI.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\DemoDI.csproj",
+              "RelativeToolTip": "DemoDI\\DemoDI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T14:15:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VidaRealController.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\VidaRealController.cs",
+              "RelativeDocumentMoniker": "DemoDI\\Controllers\\VidaRealController.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\DemoDI\\Controllers\\VidaRealController.cs",
+              "RelativeToolTip": "DemoDI\\Controllers\\VidaRealController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:19:46.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "03 - Abstracao.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\02 - Pilares OOP\\03 - Abstracao.cs",
+              "RelativeDocumentMoniker": "OOP\\02 - Pilares OOP\\03 - Abstracao.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\02 - Pilares OOP\\03 - Abstracao.cs",
+              "RelativeToolTip": "OOP\\02 - Pilares OOP\\03 - Abstracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:20:01.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "04 - Polimorfismo.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\02 - Pilares OOP\\04 - Polimorfismo.cs",
+              "RelativeDocumentMoniker": "OOP\\02 - Pilares OOP\\04 - Polimorfismo.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\02 - Pilares OOP\\04 - Polimorfismo.cs",
+              "RelativeToolTip": "OOP\\02 - Pilares OOP\\04 - Polimorfismo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:19:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClienteRepository2.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:12:36.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\EmailServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:11:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:10:38.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:08:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IEmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IEmailServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:05:59.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:05:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IClienteServices.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:05:59.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:05:57.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:03:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CPF.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "RelativeDocumentMoniker": "SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "RelativeToolTip": "SOLID\\5 - DIP\\DIP.Solucao\\CPF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:03:35.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Solucao\\CadastroProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:34:44.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Solucao\\CadastroCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:34:43.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ICadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:34:39.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ICadastroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastroCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:34:36.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ICadastro.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Solucao\\Interfaces\\ICadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:34:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Violacao\\CadastroProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:32:17.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICadastro.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "RelativeDocumentMoniker": "SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "RelativeToolTip": "SOLID\\4 - ISP\\ISP.Violacao\\ICadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:31:07.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Cases.cs",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\03 -  InterfaceVsImplementacao\\Cases.cs",
+              "RelativeDocumentMoniker": "OOP\\03 -  InterfaceVsImplementacao\\Cases.cs",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\03 -  InterfaceVsImplementacao\\Cases.cs",
+              "RelativeToolTip": "OOP\\03 -  InterfaceVsImplementacao\\Cases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:30:09.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SOLID.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\SOLID.csproj",
+              "RelativeDocumentMoniker": "SOLID\\SOLID.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\SOLID\\SOLID.csproj",
+              "RelativeToolTip": "SOLID\\SOLID.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T11:11:11.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProjetoB.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\ProjetoB\\ProjetoB.csproj",
+              "RelativeDocumentMoniker": "ProjetoB\\ProjetoB.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\ProjetoB\\ProjetoB.csproj",
+              "RelativeToolTip": "ProjetoB\\ProjetoB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T11:11:06.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProjetoA.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\ProjetoA\\ProjetoA.csproj",
+              "RelativeDocumentMoniker": "ProjetoA\\ProjetoA.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\ProjetoA\\ProjetoA.csproj",
+              "RelativeToolTip": "ProjetoA\\ProjetoA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T11:11:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OOP.csproj",
+              "DocumentMoniker": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\OOP.csproj",
+              "RelativeDocumentMoniker": "OOP\\OOP.csproj",
+              "ToolTip": "C:\\Users\\vpinh\\OneDrive\\\u00C1rea de Trabalho\\Desenvolvedor.io\\_6FundamentosArquiteturaSoftwares\\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\\OOP\\OOP.csproj",
+              "RelativeToolTip": "OOP\\OOP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T11:08:14.895Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

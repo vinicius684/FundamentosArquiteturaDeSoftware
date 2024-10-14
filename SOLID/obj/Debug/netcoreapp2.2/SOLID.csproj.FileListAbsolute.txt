@@ -1,0 +1,13 @@
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.deps.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.runtimeconfig.dev.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.dll
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\bin\Debug\netcoreapp2.2\SOLID.pdb
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.AssemblyReference.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfoInputs.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.AssemblyInfo.cs
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.dll
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.pdb
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpinh\OneDrive\Área de Trabalho\Desenvolvedor.io\_6FundamentosArquiteturaSoftwares\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\SOLID\obj\Debug\netcoreapp2.2\SOLID.genruntimeconfig.cache

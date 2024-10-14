@@ -1,0 +1,11 @@
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.deps.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.runtimeconfig.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.runtimeconfig.dev.json
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.dll
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\bin\Debug\netcoreapp2.2\ProjetoA.pdb
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.csproj.AssemblyReference.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.csproj.CoreCompileInputs.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.AssemblyInfoInputs.cache
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.AssemblyInfo.cs
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.dll
+C:\Users\vpinh\OneDrive\Área de Trabalho\633D37F3-F03F-40D4-A3B6-AFD558CCF364-01 - FundamentosArquitetura\ProjetoA\obj\Debug\netcoreapp2.2\ProjetoA.pdb
